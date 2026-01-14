@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![jason's github stats](https://github-readme-stats.vercel.app/api?username=jasonboy&show_icons=true)
+Welcome to my house!
 
 <!--
 **JasonBoy/JasonBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
